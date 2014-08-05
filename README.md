@@ -2,3 +2,9 @@ pman
 ====
 
 Password Manager
+
+
+pman.sh sha512sum:
+
+722b25d50b39e118049d0ed664505361356d6841cde19abd113f4b82d124a28a30f3aa69a6a02eca2eba2541330e513e062d1ef13f7403e69c310c4f7e9d47d3 
+
