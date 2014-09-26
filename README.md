@@ -11,6 +11,7 @@ source pman.sh
 
 then:
 
+```
 pman-init <master password> : 
 		initialize the password manager by creating an empty archive file.
 		This file is encrypted with the <master password> and will hold all the service files.
@@ -27,7 +28,7 @@ pman-show-all <master password> :
 
 pman-show-service <master password> <service name> <service master password> :
 		show the password for the <service name> 
-
+```
 
 pman.sh sha512sum:
 
